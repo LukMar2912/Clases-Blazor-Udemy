@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b4f4df0-4bc0-41c5-8395-8a8cf4368543": {
+      "ProjectGuid": "8b4f4df0-4bc0-41c5-8395-8a8cf4368543",
+      "DisplayName": "BlazorAppWebAssembly.Server",
+      "ColorIndex": 0
+    },
+    "68b5908f-768a-41d3-87eb-40ca2fc771be": {
+      "ProjectGuid": "68b5908f-768a-41d3-87eb-40ca2fc771be",
+      "DisplayName": "BlazorAppWebAssembly.Client",
+      "ColorIndex": 1
+    },
+    "b168509f-d222-443a-b10b-4df9969fe378": {
+      "ProjectGuid": "b168509f-d222-443a-b10b-4df9969fe378",
+      "DisplayName": "BlazorAppWebAssembly.Shared",
+      "ColorIndex": 2
+    },
+    "98edd17e-6b08-4b80-960a-acdd096b01c7": {
+      "ProjectGuid": "98edd17e-6b08-4b80-960a-acdd096b01c7",
+      "DisplayName": "Blazor.Contacts.Wasm.Repositories",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

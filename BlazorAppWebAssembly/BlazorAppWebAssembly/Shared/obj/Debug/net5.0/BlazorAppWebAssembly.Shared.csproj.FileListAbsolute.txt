@@ -1,0 +1,12 @@
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\bin\Debug\net5.0\BlazorAppWebAssembly.Shared.deps.json
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\bin\Debug\net5.0\BlazorAppWebAssembly.Shared.dll
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\bin\Debug\net5.0\ref\BlazorAppWebAssembly.Shared.dll
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\bin\Debug\net5.0\BlazorAppWebAssembly.Shared.pdb
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.dll
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\ref\BlazorAppWebAssembly.Shared.dll
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.pdb
+C:\Users\Renzo\Desktop\proyectos\BlazorAppWebAssembly\BlazorAppWebAssembly\Shared\obj\Debug\net5.0\BlazorAppWebAssembly.Shared.csproj.AssemblyReference.cache
