@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAZH7+KiRPzE7fBFRHdY4jsd6qx4kG4PEPGwJy8Tar2tD1YyNz+uJpl/wMmixLg+PC0wSmSblBMRe7vNMAA8NA==",
+  "dgSpecHash": "0bMGmTXUrdJxyLGHCKh4PUMB/aiGnv2U2wxdtZv60ddH+jDrFJDYS2FCTxsiMLuVbkd1GRz4ZCqpd3G+dmo8dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\Blazor.Contacts.Wasm.Repositories\\Blazor.Contacts.Wasm.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\Blazor.Contacts.Wasm.Repositories\\Blazor.Contacts.Wasm.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renzo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
   ],

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
       "projectName": "BlazorAppWebAssembly.Shared",
-      "projectPath": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
+      "projectPath": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
       "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

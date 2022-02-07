@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1s7LjzBYJmNeSoU8C6UO+vHbrdd0JDxzaAcwHpe+cdGl24mtosIJaYHdJegh8prliFTnpkvlWQFtOhbwYS/zw==",
+  "dgSpecHash": "5hZd0xZEn62ZE391YCpLipMu2hvrpbXnTQpyvHKhL2eKF2O38+OY/Yn7FrzGNCSSg4iFLTLICCtKViuVN3nuSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Shared\\BlazorAppWebAssembly.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

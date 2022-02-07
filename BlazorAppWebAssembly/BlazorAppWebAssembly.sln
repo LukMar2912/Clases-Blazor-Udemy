@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly.Server", "BlazorAppWebAssembly\Server\BlazorAppWebAssembly.Server.csproj", "{8B4F4DF0-4BC0-41C5-8395-8A8CF4368543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppWebAssembly.Server", "BlazorAppWebAssembly\Server\BlazorAppWebAssembly.Server.csproj", "{8B4F4DF0-4BC0-41C5-8395-8A8CF4368543}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly.Client", "BlazorAppWebAssembly\Client\BlazorAppWebAssembly.Client.csproj", "{68B5908F-768A-41D3-87EB-40CA2FC771BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppWebAssembly.Client", "BlazorAppWebAssembly\Client\BlazorAppWebAssembly.Client.csproj", "{68B5908F-768A-41D3-87EB-40CA2FC771BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly.Shared", "BlazorAppWebAssembly\Shared\BlazorAppWebAssembly.Shared.csproj", "{B168509F-D222-443A-B10B-4DF9969FE378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppWebAssembly.Shared", "BlazorAppWebAssembly\Shared\BlazorAppWebAssembly.Shared.csproj", "{B168509F-D222-443A-B10B-4DF9969FE378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.Contacts.Wasm.Repositories", "Blazor.Contacts.Wasm.Repositories\Blazor.Contacts.Wasm.Repositories.csproj", "{98EDD17E-6B08-4B80-960A-ACDD096B01C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Contacts.Wasm.Repositories", "Blazor.Contacts.Wasm.Repositories\Blazor.Contacts.Wasm.Repositories.csproj", "{98EDD17E-6B08-4B80-960A-ACDD096B01C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

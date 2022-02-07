@@ -18,19 +18,29 @@ namespace Blazor.Contacts.Wasm.Repositories
             _dbConnection = dbConnection;
         }
 
-        public Task DeleteContact(int id)
+        public async Task DeleteContact(int id)
         {
-            throw new NotImplementedException();
+            var sql = @"DELETE FROM contacts WHERE id=@id";
+
+            var result = await _dbConnection.ExecuteAsync(sql, new { id = id });
         }
 
-        public Task<IEnumerable<Contact>> GetAll()
+        public async Task<IEnumerable<Contact>> GetAll()
         {
-            throw new NotImplementedException();
+            var sql = @"SELECT id, FirstName, LastName, Phone, Address FROM contacts";
+
+            return await _dbConnection.QueryAsync<Contact>(sql, new{});
         }
 
-        public Task<Contact> GetDetails()
+        public async Task<Contact> GetDetails(int id)
         {
-            throw new NotImplementedException();
+            var sql = @"SELECT id, FirstName, LastName, Phone, Address FROM contacts WHERE id = @id";
+
+
+            return await _dbConnection.QueryFirstOrDefaultAsync<Contact>(sql, new
+            {
+                id = id
+            });
         }
 
         public async Task<bool> InsertContact(Contact contact)
@@ -46,17 +56,42 @@ namespace Blazor.Contacts.Wasm.Repositories
                     contact.Phone,
                     contact.Address
                 });
+
+                return result > 0;
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
                 throw;
             }
         }
 
-        public Task<bool> UpdateContact(Contact contact)
+        public async Task<bool> UpdateContact(Contact contact)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var sql = @"UPDATE contacts SET " +
+                    "FirstName = @FirstName, " +
+                    "LastName = @LastName, " +
+                    "Phone = @Phone, " +
+                    "Address = @Address " +
+                    "WHERE id = @id";
+                var result = await _dbConnection.ExecuteAsync(sql, new
+                {
+                    contact.FirstName,
+                    contact.LastName,
+                    contact.Phone,
+                    contact.Address,
+                    contact.Id
+                });
+
+                return result > 0;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }

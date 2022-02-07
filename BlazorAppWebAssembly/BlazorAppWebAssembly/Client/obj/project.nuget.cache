@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mq7OoeNEGeU0PqhEWLBvWzeNWt2CeuE8FjSmER2LwZIhb9vkLvse4pBI37jH9wGEJaOojDI+8nIR86MjAQlNjg==",
+  "dgSpecHash": "vgqvMNqdqDSIMMKMiyMdLdQ/9y15CscOB5JGmCofqz5R8h/Q/K7eVDjieRex+NFFMrCoriapOyCp9COqj9ClSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\proyectos\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Client\\BlazorAppWebAssembly.Client.csproj",
+  "projectFilePath": "C:\\Users\\Renzo\\Desktop\\GitLukMar\\Clases-Blazor-Udemy\\BlazorAppWebAssembly\\BlazorAppWebAssembly\\Client\\BlazorAppWebAssembly.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Renzo\\.nuget\\packages\\libsassbuilder\\2.0.1\\libsassbuilder.2.0.1.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.13\\microsoft.aspnetcore.authorization.5.0.13.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.13\\microsoft.aspnetcore.components.5.0.13.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.13\\microsoft.aspnetcore.components.analyzers.5.0.13.nupkg.sha512",
@@ -12,6 +13,7 @@
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.13\\microsoft.aspnetcore.components.webassembly.5.0.13.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\5.0.13\\microsoft.aspnetcore.components.webassembly.devserver.5.0.13.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.13\\microsoft.aspnetcore.metadata.5.0.13.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
@@ -28,7 +30,9 @@
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.jsinterop\\5.0.13\\microsoft.jsinterop.5.0.13.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.13\\microsoft.jsinterop.webassembly.5.0.13.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\radzen.blazor\\3.14.12\\radzen.blazor.3.14.12.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Renzo\\.nuget\\packages\\system.linq.dynamic.core\\1.2.12\\system.linq.dynamic.core.1.2.12.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Renzo\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.13\\microsoft.netcore.app.runtime.browser-wasm.5.0.13.nupkg.sha512"
   ],
