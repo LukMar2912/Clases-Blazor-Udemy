@@ -2,4 +2,5 @@
   <ContentRoot BasePath="/" Path="C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\bin\Debug\net5.0\wwwroot\" />
   <ContentRoot BasePath="/" Path="C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\scopedcss\bundle\" />
   <ContentRoot BasePath="/" Path="C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\Renzo\.nuget\packages\radzen.blazor\3.14.12\build\..\staticwebassets\" />
 </StaticWebAssets>

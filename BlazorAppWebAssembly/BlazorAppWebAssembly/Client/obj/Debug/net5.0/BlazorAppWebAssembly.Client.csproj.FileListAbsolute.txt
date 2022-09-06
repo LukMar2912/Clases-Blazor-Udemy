@@ -1276,3 +1276,9 @@ C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\Blazor
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\Razor\Pages\ContactList.razor.g.cs
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ContactDelete.razor.g.cs
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\Razor\Pages\ContactDelete.razor.g.cs
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\build-gz\dKR9+PfO.gz
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\obj\Debug\net5.0\build-gz\+G0PqKI+.gz

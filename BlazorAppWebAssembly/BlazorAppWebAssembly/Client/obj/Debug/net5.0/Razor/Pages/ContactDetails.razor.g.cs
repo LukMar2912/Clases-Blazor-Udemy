@@ -93,6 +93,20 @@ using Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\_Imports.razor"
+using Radzen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Client\_Imports.razor"
+using Radzen.Blazor;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/contactdetails")]
     [Microsoft.AspNetCore.Components.RouteAttribute("/contactdetails/{id:int}")]
     public partial class ContactDetails : Microsoft.AspNetCore.Components.ComponentBase

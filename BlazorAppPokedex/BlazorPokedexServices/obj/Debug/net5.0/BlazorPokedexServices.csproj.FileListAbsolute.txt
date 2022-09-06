@@ -1,0 +1,15 @@
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\BlazorPokedexServices.deps.json
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\BlazorPokedexServices.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\ref\BlazorPokedexServices.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\BlazorPokedexServices.pdb
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\BlazorPokedexModels.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\bin\Debug\net5.0\BlazorPokedexModels.pdb
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.csproj.AssemblyReference.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.csproj.CopyComplete
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\ref\BlazorPokedexServices.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexServices\obj\Debug\net5.0\BlazorPokedexServices.pdb

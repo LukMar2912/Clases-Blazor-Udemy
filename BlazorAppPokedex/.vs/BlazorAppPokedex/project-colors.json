@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d14ca5e-8190-4507-abf8-3b5b31749dc2": {
+      "ProjectGuid": "4d14ca5e-8190-4507-abf8-3b5b31749dc2",
+      "DisplayName": "BlazorAppPokedex.Client",
+      "ColorIndex": 0
+    },
+    "889bcf7a-d878-444a-b099-ad108f0240c0": {
+      "ProjectGuid": "889bcf7a-d878-444a-b099-ad108f0240c0",
+      "DisplayName": "BlazorPokedexModels",
+      "ColorIndex": 1
+    },
+    "b04a201b-56fc-4306-8094-ed4387a92c36": {
+      "ProjectGuid": "b04a201b-56fc-4306-8094-ed4387a92c36",
+      "DisplayName": "BlazorPokedexServices",
+      "ColorIndex": 2
+    },
+    "4f94bbf7-75ea-479a-b760-65881d15fd6a": {
+      "ProjectGuid": "4f94bbf7-75ea-479a-b760-65881d15fd6a",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

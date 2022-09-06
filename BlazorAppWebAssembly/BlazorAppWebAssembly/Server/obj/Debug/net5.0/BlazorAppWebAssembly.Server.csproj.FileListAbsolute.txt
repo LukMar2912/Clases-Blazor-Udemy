@@ -146,3 +146,5 @@ C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\Blazor
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Server\obj\Debug\net5.0\ref\BlazorAppWebAssembly.Server.dll
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Server\obj\Debug\net5.0\BlazorAppWebAssembly.Server.pdb
 C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Server\obj\Debug\net5.0\BlazorAppWebAssembly.Server.genruntimeconfig.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Server\bin\Debug\net5.0\Radzen.Blazor.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppWebAssembly\BlazorAppWebAssembly\Server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll

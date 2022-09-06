@@ -1,0 +1,12 @@
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\bin\Debug\net5.0\BlazorPokedexModels.deps.json
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\bin\Debug\net5.0\BlazorPokedexModels.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\bin\Debug\net5.0\ref\BlazorPokedexModels.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\bin\Debug\net5.0\BlazorPokedexModels.pdb
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.AssemblyInfoInputs.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.AssemblyInfo.cs
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\ref\BlazorPokedexModels.dll
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.pdb
+C:\Users\Renzo\Desktop\GitLukMar\Clases-Blazor-Udemy\BlazorAppPokedex\BlazorPokedexModels\obj\Debug\net5.0\BlazorPokedexModels.csproj.AssemblyReference.cache
